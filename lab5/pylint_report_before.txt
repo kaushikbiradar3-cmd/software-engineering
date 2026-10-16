@@ -1,0 +1,32 @@
+************* Module parcel_tracker
+parcel_tracker.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+parcel_tracker.py:11:0: C0116: Missing function or method docstring (missing-function-docstring)
+parcel_tracker.py:11:0: C0103: Function name "bookParcel" doesn't conform to snake_case naming style (invalid-name)
+parcel_tracker.py:11:33: C0103: Argument name "weightKg" doesn't conform to snake_case naming style (invalid-name)
+parcel_tracker.py:11:0: W0102: Dangerous default value [] as argument (dangerous-default-value)
+parcel_tracker.py:12:4: C0103: Variable name "trackingId" doesn't conform to snake_case naming style (invalid-name)
+parcel_tracker.py:20:0: C0116: Missing function or method docstring (missing-function-docstring)
+parcel_tracker.py:20:0: C0103: Function name "advanceStatus" doesn't conform to snake_case naming style (invalid-name)
+parcel_tracker.py:20:18: C0103: Argument name "trackingId" doesn't conform to snake_case naming style (invalid-name)
+parcel_tracker.py:27:0: C0116: Missing function or method docstring (missing-function-docstring)
+parcel_tracker.py:27:0: C0103: Function name "shippingCost" doesn't conform to snake_case naming style (invalid-name)
+parcel_tracker.py:27:17: C0103: Argument name "weightKg" doesn't conform to snake_case naming style (invalid-name)
+parcel_tracker.py:34:0: C0116: Missing function or method docstring (missing-function-docstring)
+parcel_tracker.py:34:0: C0103: Function name "trackParcel" doesn't conform to snake_case naming style (invalid-name)
+parcel_tracker.py:34:16: C0103: Argument name "trackingId" doesn't conform to snake_case naming style (invalid-name)
+parcel_tracker.py:37:11: W0718: Catching too general exception Exception (broad-exception-caught)
+parcel_tracker.py:43:0: C0116: Missing function or method docstring (missing-function-docstring)
+parcel_tracker.py:43:0: C0103: Function name "isWithCourier" doesn't conform to snake_case naming style (invalid-name)
+parcel_tracker.py:43:18: C0103: Argument name "trackingId" doesn't conform to snake_case naming style (invalid-name)
+parcel_tracker.py:45:11: R1714: Consider merging these comparisons with 'in' by using 'status in ('Picked Up', 'In Transit')'. Use a set instead if elements are hashable. (consider-using-in)
+parcel_tracker.py:48:0: C0116: Missing function or method docstring (missing-function-docstring)
+parcel_tracker.py:48:0: C0103: Function name "labelPath" doesn't conform to snake_case naming style (invalid-name)
+parcel_tracker.py:53:0: C0116: Missing function or method docstring (missing-function-docstring)
+parcel_tracker.py:53:0: C0103: Function name "pingHub" doesn't conform to snake_case naming style (invalid-name)
+parcel_tracker.py:53:12: C0103: Argument name "hubAddress" doesn't conform to snake_case naming style (invalid-name)
+parcel_tracker.py:58:0: C0116: Missing function or method docstring (missing-function-docstring)
+parcel_tracker.py:67:8: C0103: Variable name "trackingId" doesn't conform to snake_case naming style (invalid-name)
+
+-----------------------------------
+Your code has been rated at 4.91/10
+
