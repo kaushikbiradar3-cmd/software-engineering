@@ -1,0 +1,4 @@
+parcel_tracker.py:28:9: E225 missing whitespace around operator
+parcel_tracker.py:71:35: E261 at least two spaces before inline comment
+parcel_tracker.py:74:34: E231 missing whitespace after ','
+parcel_tracker.py:75:1: E305 expected 2 blank lines after class or function definition, found 0
